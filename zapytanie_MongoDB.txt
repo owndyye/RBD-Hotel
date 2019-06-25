@@ -1,0 +1,11 @@
+//Copy from NoSQLBooster for MongoDB free edition. This message does not appear if you are using a registered version.
+
+{
+  "_id": "5d11df85f250a040a83dc5fb",
+  "imie": "Amelia",
+  "nazwisko": "Nijak",
+  "miasto": "Plonsk",
+  "ulica": "Starsza",
+  "nr_domu": "26",
+  "nr_mieszkania": "99"
+}
