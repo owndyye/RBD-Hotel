@@ -1,0 +1,1 @@
+db.Pracownik.find({miasto:{$in:["Plonsk","Warszawa"]}, imie:{$in:["Kamil","Amelia"]}}).sort({nr_domu:-1}).sort({nr_mieszkania:-1})
